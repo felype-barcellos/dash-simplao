@@ -1,4 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-analise.ipynb
+*ipynb
+*.xlsx
+*.xls
+*.csv
