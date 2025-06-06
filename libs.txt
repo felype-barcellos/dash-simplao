@@ -6,3 +6,4 @@ openpyxl
 seaborn
 stremlit
 ipykernel
+mysql-connector-python
