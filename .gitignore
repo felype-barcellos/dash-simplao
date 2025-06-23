@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
 *.pyc
-*ipynb
+*.ipynb
 *.xlsx
 *.xls
 *.csv
